@@ -1,0 +1,31 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  scene.cpp
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(45,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(46,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(84,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(84,62): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(85,42): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(91,85): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(91,77): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(91,69): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(102,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(110,43): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(111,44): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(112,33): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(112,62): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(113,34): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(113,63): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(147,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(148,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(149,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(300,52): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(302,52): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(310,46): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(316,54): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(316,75): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(317,55): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(317,76): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(405,34): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\scene.cpp(407,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  framework.vcxproj -> C:\Users\Aseem Apastamb\Desktop\USA\DigiPen Institute of Technology\Semester 1\CS-541\CS541-framework-glfw\Debug\framework.exe
+  0 File(s) copied
